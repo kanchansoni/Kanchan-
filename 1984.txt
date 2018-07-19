@@ -3,3 +3,7 @@ It was a bright cold day in may
 !!!
 The birds were chirping :)
 frr
+<<<<<<< 4ffbb8d4be81a162582892ae76420eab8aa26299
+=======
+bRRRRRRRRRRRRRRRRRRR
+>>>>>>> After K
